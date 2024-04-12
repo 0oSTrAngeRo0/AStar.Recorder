@@ -1,0 +1,16 @@
+{
+    "name": "AStar.Recorder.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bcb14cfac90023548ac674bf804ba433"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
